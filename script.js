@@ -15,12 +15,15 @@ const start = () => {
 }
 
 let process = (data) => setInterval(() => {
-    console.log(data[currentIndex]);
+    let currWord = 
 
 
     
+    // Check if the 
     
 
+
+    // Increment the index
     currentIndex++;
 }, 60000/WPM);
 
